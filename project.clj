@@ -1,4 +1,4 @@
-(defproject nomis-zzzz-play-library "0.2.5-SNAPSHOT"
+(defproject nomis-zzzz-play-library "0.2.5"
   :description "A library for playing with things -- eg for testing deployment to Clojars."
   :url "https://github.com/simon-katz/nomis-zzzz-play-library"
   :license {:name "Eclipse Public License"
